@@ -1,0 +1,31 @@
+Project Tesseract
+_________________
+
+
+A proposal for the Eden 1 3D printer
+------------------------------------
+
+Tesseract: 
+"In geometry, the tesseract is the four-dimensional analogue of the cube; the tesseract is to the cube as the cube is to the square." 
+[image below]
+
+![](Schlegel_wireframe_8-cell.png)
+
+Outline
+-------
+As the tesseract is the four-dimentional cube, the Eden 1 is the four-dimentional manufacturing machine. 
+The purpose of this is to utilize, on single device, the creative design & physical build process. 
+
+Details
+-------
+As the tesseract is a smaller cube, inside of a larger cube, the Eden 1 is an FDM 3D printer on the inside, with a full linux-based computer with display on the outside. 
+a "three-dimentional computer" if you will. That the use can "reach into" and grab anything they want from the internet. 
+a true 3D-TV manifestor. 
+
+This allows the Eden 1 user to design any CAD program, directly on the machine. 
+Once designed andfile is sliced, ready to print, simply transfer .stl file to the inside 3D printer, with machine waiting to build your design.
+
+
+
+I will add to this, including designs, images and video of what I have built :)
+[timestamp 4:00:38 UTC March 13, 2020]
